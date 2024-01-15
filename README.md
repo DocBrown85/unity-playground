@@ -1,2 +1,2 @@
 # unity-playground
-Repo playground for Unity projetcs
+Repo playground for Unity projects.
